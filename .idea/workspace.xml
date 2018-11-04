@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8941f3b5-ad26-45b7-8b6e-1c70616a505a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MANIFEST" beforeDir="false" afterPath="$PROJECT_DIR$/MANIFEST" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beam_influxDB_writer/InfluxDBSink.py" beforeDir="false" afterPath="$PROJECT_DIR$/beamInfluxDBWriter/InfluxDBSink.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beam_influxDB_writer/InfluxDBWriter.py" beforeDir="false" afterPath="$PROJECT_DIR$/beamInfluxDBWriter/InfluxDBWriter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beam_influxDB_writer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/beamInfluxDBWriter/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/beam_influxDB_writer-0.2.tar.gz" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,12 +39,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="268" />
+          <entry key="py" value="273" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="268" />
+          <entry key="Python" value="273" />
         </counts>
       </usages-collector>
     </session>
@@ -46,7 +52,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beam_influxDB_writer/__init__.py">
+        <entry file="file://$PROJECT_DIR$/beamInfluxDBWriter/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
@@ -60,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="83" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="83" />
+            <state relative-caret-position="60">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -85,7 +91,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beam_influxDB_writer/InfluxDBSink.py">
+        <entry file="file://$PROJECT_DIR$/beamInfluxDBWriter/InfluxDBSink.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
@@ -97,7 +103,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beam_influxDB_writer/InfluxDBWriter.py">
+        <entry file="file://$PROJECT_DIR$/beamInfluxDBWriter/InfluxDBWriter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
@@ -213,7 +219,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/beam_influxDB_writer/InfluxDBWriter.py">
+    <entry file="file://$PROJECT_DIR$/beamInfluxDBWriter/InfluxDBWriter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
@@ -223,7 +229,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beam_influxDB_writer/__init__.py">
+    <entry file="file://$PROJECT_DIR$/beamInfluxDBWriter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
@@ -233,7 +239,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beam_influxDB_writer/InfluxDBSink.py">
+    <entry file="file://$PROJECT_DIR$/beamInfluxDBWriter/InfluxDBSink.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
@@ -259,8 +265,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="83" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="83" />
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>

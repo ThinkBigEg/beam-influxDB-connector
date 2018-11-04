@@ -1,8 +1,8 @@
 from distutils.core import setup
 setup(
-  name = 'beam_influxDB_writer',         # How you named your package folder (MyLib)
-  packages = ['beam_influxDB_writer'],   # Chose the same as "name"
-  version = '0.2',      # Start with a small number and increase it with every change you make
+  name = 'beamInfluxDBWriter',         # How you named your package folder (MyLib)
+  packages = ['beamInfluxDBWriter'],   # Chose the same as "name"
+  version = '0.4',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'A connector where you can write from apache beam pipeline to influxdb',   # Give a short description about your library
   author = 'Hussein Khaled',                   # Type in your name
